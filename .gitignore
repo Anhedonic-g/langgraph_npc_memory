@@ -1,0 +1,5 @@
+.env
+__pycache__/
+npc_memory_db/
+*.pyc
+.vscode/
